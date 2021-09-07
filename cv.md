@@ -1,9 +1,9 @@
-# Alexey Tikhonov
+# Aleksey Tikhonov
 
 ## Contacts
-Location: St. Petersburg, Russia
-Phone: +7 (911) 9619666
-Email: tikhonov.aleksey.aleksandrovich@gmail.com
+Location: St. Petersburg, Russia \
+Phone: +7 (911) 9619666 \
+Email: tikhonov.aleksey.aleksandrovich@gmail.com \
 GitHub: [alexeyt1985](https://github.com/alexeyt1985)
 
 ## About Me
